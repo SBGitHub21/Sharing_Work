@@ -8,6 +8,6 @@ Projects done
 
 Datasets :
 1. https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-2. DataCamp - http://archive.ics.uci.edu/ml/datasets/credit+approval
+2. http://archive.ics.uci.edu/ml/datasets/credit+approval
 3. DataCamp 
 4. DataCamp
