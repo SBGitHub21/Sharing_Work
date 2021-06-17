@@ -6,6 +6,7 @@ Projects done
 3. Which Debts are worth the Bank's Efforts?
 4. Risk and Return - The Sharpe Ratio
 5. Histopathologic Cancer Detection
+6. Credit Risk Modelling : Acquisition Model
 
 Datasets :
 1. https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
@@ -13,3 +14,4 @@ Datasets :
 3. DataCamp 
 4. DataCamp
 5. https://www.kaggle.com/c/histopathologic-cancer-detection
+6. https://www.kaggle.com/ethon0426/lending-club-20072020q1
