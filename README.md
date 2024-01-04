@@ -1,12 +1,14 @@
 # Portfolio
 Projects done 
 
-1. Predicting the number of cases for Covid - 19
-2. Predicting Credit Card Approval 
-3. Which Debts are worth the Bank's Efforts?
-4. Risk and Return - The Sharpe Ratio
-5. Histopathologic Cancer Detection
-6. Credit Risk Modelling : Acquisition Model
+1. Groove Trends: Decoding Music Popularity
+2. Media Mix Modelling 
+3. Predicting the number of cases for Covid - 19
+4. Predicting Credit Card Approval 
+5. Which Debts are worth the Bank's Efforts?
+6. Risk and Return - The Sharpe Ratio
+7. Histopathologic Cancer Detection
+8. Credit Risk Modelling : Acquisition Model
 
 Datasets :
 1. https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
